@@ -1,0 +1,3 @@
+C:/Users/Owner/Documents/DS_2/cmake-build-debug/CMakeFiles/DS_2.dir
+C:/Users/Owner/Documents/DS_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Owner/Documents/DS_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
